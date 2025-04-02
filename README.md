@@ -47,8 +47,12 @@ This is a **Todo Application** built using **React**, **Redux Toolkit**, and **V
 ** I made this whole app collab of chat gpt or copilot, cause it gives me strenght to make things beyound my knowledge. i learn from her, so many things  while creating this project **
 
 ## Things i Make Sole.
-** The theme if app design , responsivness, and some  of logics i made my own. **
+** The theme i app design , responsivness, and some  of logics i made my own. **
 
 
+## Check out Live Preview
+** Hosted on Vercel  **
+  https://todoapp-psi-ashen.vercel.app/
 
+## The End...
 
